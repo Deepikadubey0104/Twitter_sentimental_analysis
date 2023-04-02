@@ -6,8 +6,8 @@ The most common type of sentiment analysis is ‘polarity detection’ and invol
 
 Performing sentiment analysis on Twitter data involves five steps:
 
-Gather relevant Twitter data
-Clean your data using pre-processing techniques
-Create a sentiment analysis machine learning model
-Analyze your Twitter data using your sentiment analysis model
-Visualize the results of your Twitter sentiment analysis
+A) Gather relevant Twitter data.
+B) Clean your data using pre-processing techniques
+C) Create a sentiment analysis machine learning model
+D) Analyze your Twitter data using your sentiment analysis model
+E) Visualize the results of your Twitter sentiment analysis
